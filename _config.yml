@@ -1,5 +1,5 @@
 title: "Project Updates"
 description: "Regular entries about the project development"
-theme: jekyll-theme-cayman
+theme: minima
 baseurl: "/si_project_updates"
 url: "https://alawerga.github.io"
